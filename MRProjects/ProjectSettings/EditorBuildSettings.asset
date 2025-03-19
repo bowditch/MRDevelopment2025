@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MRTestScene.unity
     guid: b2e187ce90a9bf14294867cf3b62040e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ArcheryGame.unity
     guid: c21254f67db0edd45a2dc9d344d62794
   - enabled: 0
     path: "Assets/Samples/Meta XR Interaction \u200BSDK/72.0.0/Example Scenes/HandGrabExamples.unity"
     guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  - enabled: 1
+    path: Assets/Scenes/HandballMR.unity
+    guid: 20055cc823dfade4ea668c9d6c339c6f
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3121b176acd701e4a9bab718d6386749, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 59be1dd7bf2338f4bb22ed5aac918129, type: 2}
